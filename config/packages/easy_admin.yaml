@@ -1,0 +1,5 @@
+easy_admin:
+  entities:
+    Menu:
+      class: App\Entity\Menu
+      controller: App\Controller\Admin\MenuCrudController
